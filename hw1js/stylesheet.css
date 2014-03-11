@@ -1,0 +1,33 @@
+#wrapper{
+	width:850px;
+	margin:auto;
+}
+#text{
+	width:500px;
+	padding:10px;
+	font-family:"Comic Sans MS";
+	font-size:15px;
+	color:#008000;
+}
+form div{
+	padding:10px;
+	border:1px solid #ccc;
+	margin-top:15px;
+}
+form.controls {
+	width:300px;
+	padding:15px;
+	float:right;
+}
+h1, h2{
+	margin:0;
+	padding:0;
+}
+.matched{
+	color:orange;
+}
+div.saveResult {
+	margin-top:20px;
+	text-align:center;
+	border:0px;
+}
